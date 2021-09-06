@@ -4,7 +4,7 @@ hero:
     icon: briefcase-outline
     link: '/#portofolio'
     text: My work
-  heading: 'I''m Johanna Hume and I create'
+  heading: 'I''m Johanna Eleonore and I create'
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -71,7 +71,7 @@ portfolio:
       btnText: View on Behance
       image: /img/project-6.jpeg
       title: UIoUXy
-  title: My work
+  title: What I can do
 footer:
   text: © Johanna Hume
 ---
