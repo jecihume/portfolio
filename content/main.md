@@ -4,7 +4,7 @@ hero:
     icon: briefcase-outline
     link: '/#portofolio'
     text: My work
-  heading: 'I''m Paco Cu, and I create'
+  heading: 'I''m Johanna Hume and I create'
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -12,25 +12,23 @@ hero:
     text: Contact
   social:
     facebook:
-      link: 'https://facebook.com'
-      show: true
+      link: 'https://www.facebook.com/jecihume'
+      show: false
     instagram:
-      link: 'https://instagram.com'
+      link: 'https://www.instagram.com/johannaeleonore1.0/'
       show: true
     linkedin:
-      link: 'https://linkedin.com'
+      link: 'https://www.linkedin.com/in/johanna-eleonore-hume/'
       show: true
   typed:
     - text: fast websites.
-    - text: beautiful logos.
+    - text: beautiful design.
     - text: great experiences.
 about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    Here will appear an awesomely written bio about me, my life and what I am about.
 features:
   - icon: monitor-screenshot
     text: >
@@ -75,6 +73,5 @@ portfolio:
       title: UIoUXy
   title: My work
 footer:
-  text: © John Doe
+  text: © Johanna Hume
 ---
-
