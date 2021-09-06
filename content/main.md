@@ -20,6 +20,9 @@ hero:
     linkedin:
       link: 'https://www.linkedin.com/in/johanna-eleonore-hume/'
       show: true
+    github:
+      link: 'https://github.com/jecihume'
+      show: true
   typed:
     - text: fast websites.
     - text: beautiful design.

@@ -72,6 +72,15 @@ const Hero = ({ data }) => {
               <i className="mdi mdi-linkedin"></i>
             </a>
           )}
+          {social.github.show && (
+            <a
+              href={social.github.link}
+              target="_blank"
+              className="mx-2 px-1 text-xl hover:bg-gray-800 rounded-lg"
+            >
+              <i className="mdi mdi-github"></i>
+            </a>
+          )}
         </div>
       </div>
     </div>
