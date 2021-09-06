@@ -11,9 +11,9 @@ hero:
     link: '/#contact'
     text: Contact
   social:
-    facebook:
-      link: 'https://www.facebook.com/jecihume'
-      show: false
+    twitter:
+      link: 'https://twitter.com/JeciHume'
+      show: true
     instagram:
       link: 'https://www.instagram.com/johannaeleonore1.0/'
       show: true
