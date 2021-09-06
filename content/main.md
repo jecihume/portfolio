@@ -26,7 +26,7 @@ hero:
     - text: great experiences.
 about:
   heading: Who am I?
-  image: /img/about.jpeg
+  image: /img/about.jpg
   text: >
     Here will appear an awesomely written bio about me, my life and what I am about.
 features:
